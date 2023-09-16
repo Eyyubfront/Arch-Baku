@@ -305,7 +305,6 @@ const Home = () => {
               position: "absolute",
               top: "230px",
               left: "140px",
-              width: "1300px",
             }}
             textAlign="center"
           >
