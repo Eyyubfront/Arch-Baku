@@ -440,7 +440,9 @@ const Home = () => {
             sx={{
               border: "2px solid rgba(176, 137, 104, 1) ",
               width: "40px",
-              marginLeft: "850px",
+              position: "absolute",
+              top: "70px",
+              left: "49%",
             }}
           ></Box>
 
@@ -452,7 +454,7 @@ const Home = () => {
               color: "white",
               position: "absolute",
               top: "30px",
-              left: "1300px",
+              left: "92%",
             }}
           >
             Ətrafli <ArrowRightAltIcon />{" "}
