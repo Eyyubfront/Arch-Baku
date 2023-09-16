@@ -22,13 +22,13 @@ const Headtexnikcatg = ({ tittle, src }) => {
               position: "absolute",
               border: "1px solid white",
               padding: "15px",
-              width: "293px",
+              width: "300px",
               background: "white",
               top: "229px",
               textAlign: "center,",
               color: "black",
               fontSize: "20px",
-              marginLeft: "67px",
+              marginLeft: "38px",
             }}
           >
             {tittle}
