@@ -67,6 +67,7 @@ Lahiyeler
 <Box padding="20px">
 
 <Swiper
+ className="lomd"
 breakpoints={{
     320: {
       slidesPerView: 1,
@@ -208,6 +209,7 @@ breakpoints={{
 
 
             <Swiper
+            className="lomd"
             breakpoints={{
                 320: {
                   slidesPerView: 2,
@@ -335,7 +337,7 @@ sx={{background:"black",color:"white",opacity:"0.90"}} width="100%" padding="20p
 </SwiperSlide>
 
 
-      ...
+   
     </Swiper>
 
 
@@ -344,7 +346,7 @@ sx={{background:"black",color:"white",opacity:"0.90"}} width="100%" padding="20p
 
 
 
-    <Swiper
+    <Swiper  className="lomd"
      breakpoints={{
         320: {
           slidesPerView: 2,
@@ -509,12 +511,12 @@ sx={{background:"black",color:"white",opacity:"0.90"}} width="100%" padding="20p
 </SwiperSlide>
 
 
-      ...
+   
     </Swiper>
 
 
 
-    <Swiper
+    <Swiper  className="lomd"
      breakpoints={{
         320: {
           slidesPerView: 2,
@@ -679,7 +681,7 @@ sx={{background:"black",color:"white",opacity:"0.90"}} width="100%" padding="20p
 </SwiperSlide>
 
 
-      ...
+
     </Swiper>
 
 

@@ -35,6 +35,9 @@ body {
 .lnks{
   text-decoration: none !important;
 }
+.lomd{
+  margin: 24px;
+}
 
 @media (prefers-color-scheme: light) {
 }
@@ -118,14 +121,18 @@ margin: auto;
 .dger{
   text-align: center;
 }
-  .emekdasd{
+  .emed{
    
-    margin-left: -265px !important;
-    text-align: center !important;
+  position: absolute  !important;
+left: 0 !important;
+margin-top: 35px !important;
+  text-align: center !important;
   }
   .emekdasd2{
-    margin-top: 10px !important;
-    margin-left: -110px !important;
+    position: absolute !important;
+    margin-top: 9px !important;
+    left: 0 !important;
+    top: 305% !important;
   }
 
 
@@ -156,18 +163,17 @@ margin: auto;
 
   .lrmtxts {
     position: absolute !important;
-    left: 180px !important;
+    left: 80px !important;
     top: 40px !important;
     font-size: 20px !important;
   }
 
   .lrmtxts2 {
     position: absolute !important;
-
-   
     font-size: 15px !important;
     top: 120px !important;
-    width: 265px !important;
+    margin-left: -76px !important;
+    width: 264px !important;
   }
 
   .hmrsr{
@@ -197,7 +203,7 @@ margin: auto;
 
   .boxs2 {
     position: relative !important;
-    width: 280px !important;
+    width: 230px !important;
     height: 259px !important;
   }
 
@@ -210,7 +216,7 @@ margin: auto;
   }
 
   .reacts5 {
-    width: 324px !important;
+    width: 314px !important;
   }
 
   .alsdxbtn {
@@ -231,7 +237,7 @@ margin: auto;
 
   .xdimet {
    
-    margin-left: 147px !important;
+    margin-left: 87px !important;
     margin-top: 30px !important;
     padding: 20px !important;
     
@@ -396,7 +402,7 @@ height: 700px !important;
     background-color: white !important;
     color: black !important;
     width: 295px !important;
-    margin-left: 113px !important;
+    margin-left: 16px !important;
   }
 
   .emekdas {
@@ -447,7 +453,7 @@ height: 700px !important;
 
 
   .xeberlins{
-    margin-left: 200px !important;
+    margin-left: 155px !important;
   }
 
   .workssdpersonsd {

@@ -249,7 +249,7 @@ HAQQIMIZDA
           <Container>
             <Stack flexDirection="column" marginLeft="350px">
               <Typography 
-              className="emekdasd"
+              className="emed"
                 padding="10px"
                 sx={{
                   fontSize: "30px",

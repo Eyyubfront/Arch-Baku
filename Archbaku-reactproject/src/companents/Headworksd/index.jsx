@@ -6,8 +6,9 @@ const Headwroks = ({ tittle,text, src,practice }) => {
       <Box
     className="hedwrokbox"
   padding="70px"
-marginTop="10px"
+marginTop="20px"
   height="400px"
+  width="300px"
 
     >
 
