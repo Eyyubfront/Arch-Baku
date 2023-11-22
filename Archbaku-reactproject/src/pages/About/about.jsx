@@ -245,16 +245,15 @@ HAQQIMIZDA
 
 
 
-        <Box padding="70px"> 
+        <Box  className="personboxe" marginTop="7%"> 
           <Container>
-            <Stack flexDirection="column" marginLeft="350px">
+            <Stack flexDirection="column" >
               <Typography 
               className="emed"
                 padding="10px"
                 sx={{
                   fontSize: "30px",
-                  marginLeft: "130px",
-                  marginTop: "100px",
+                 textAlign:"center"
                 }}
               >
                 ƏMƏKDAŞLAR
@@ -264,8 +263,8 @@ HAQQIMIZDA
                 sx={{
                   border: "2px solid rgba(176, 137, 104, 1) ",
                   width: "40px",
-                 margin:"auto",
-                 marginLeft:"175px"
+                
+                 marginLeft:"48%"
                 }}
               ></Box>
             </Stack>
